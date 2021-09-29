@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zack
 - 👀 I’m interested in Phython and C
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and JavaScript
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 get skammed nub
 
